@@ -9,25 +9,22 @@ The lowest gross price reported for the years included in the DataFrame is $1239
 
 ---
 ## <span style="color:blue">**Did any year experience a drop in the average sale price per square foot compared to the previous year?**</span>
-## <span style="color:blue">**If so, did the gross rent increase or decrease during that year?**</span>
+<span style="color:blue">**If so, did the gross rent increase or decrease during that year?**</span>
 
-Based on the line plot, we can see that the average sale price per square foot increased every year from 2010 to 2016 except for a slight dip between 2015 and 2016.
-Therefore, no year experienced a drop in the average sale price per square foot compared to the previous year.
+The sale price per square foot dropped between 2010 (369.34) and 2011(341.90).
 
-The gross rent increased every year from 2010 to 2016. 
-Therefore, even though there was a slight dip in the average sale price per square foot between 2015 and 2016, the gross rent increased during that year.
+The gross rent increased every year from 2010 to 2016. Therefore, even though there were slight dips along the way, the gross rent increased during that year. 
+
 
 ---
 ## <span style="color:blue">**For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?**</span>
 To answer this question using the interactive line plot, we need to select "Anza Vista" from the dropdown selector widget for neighborhood and then compare the average sale price per square foot for 2012 and 2016.
 
-Based on the plot, we can see that the average sale price per square foot for Anza Vista was higher in 2016 than in 2012. Therefore, the average sale price per square foot for Anza Vista in 2016 is more than the price that was listed for 2012.
+Based on the plot, we can see that the average sale price per square foot for Anza Vista was lower in 2016(88.40) than it was in 2012(344.49).
 
 ---
 ## <span style="color:blue">**Which neighborhood has the highest gross rent, and which has the highest sale price per square foot?**</span>
-According to the geospatial visualisation, the neighborhood with the highest gross rent is Westwood Park.
-
-The neighborhood with the highest sale price per square foot is Presidio Heights.
+According to the geospatial visualisation, Union Square has the highest sale price per square foot at 903.99 and Westwood Park at 3959 is the highest gross rent.
 
 ---
 
